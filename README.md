@@ -1,3 +1,5 @@
+# Distributed Sort Using Multithreaded Programming
+
 This program was created in order to acheave a distributed computing approach to the simple bubble sort algorithm
 (more types of sorts with the distributed computing program will come in the future)
 
